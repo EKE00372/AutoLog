@@ -1,2 +1,2 @@
 # AutoLog
-Enable combatlog in raid and mythic dungeons automatically
+Enable combatlog in raid and mythic+ dungeons automatically.
