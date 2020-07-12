@@ -1,7 +1,3 @@
-﻿local addon, ns = ... 
-local C, F, G, L = unpack(ns)
-if not C.AutoLog then return end
-
 local IsInInstance, GetInstanceInfo, LoggingCombat = IsInInstance, GetInstanceInfo, LoggingCombat
 local GetCVar, SetCVar = GetCVar, SetCVar
 local cvar = GetCVar("advancedCombatLogging")
