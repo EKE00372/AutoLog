@@ -1,5 +1,5 @@
 local IsInInstance, GetInstanceInfo, GetBuildInfo = IsInInstance, GetInstanceInfo, GetBuildInfo
-local ILoggingCombat = LoggingCombat
+local LoggingCombat = LoggingCombat
 local GetCVar, SetCVar = GetCVar, SetCVar
 local cvar = GetCVar("advancedCombatLogging")
 
