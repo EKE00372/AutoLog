@@ -1,9 +1,9 @@
-﻿## Interface: 90100
+﻿## Interface: 101000
 ## Title: AutoLog
 ## Notes: Enable combatlog in raid and mythic+ dungeons automatically.
 ## Notes-zhTW: 在團隊副本與傳奇鑰匙模式副本內自動開啟戰鬥紀錄。
 ## Notes-zhCN: 在团队副本与史诗钥匙模式副本内自动开启战斗纪录。
 ## Author: EK
-## Version: R1.4
+## Version: R1.5
 
 AutoLog.lua

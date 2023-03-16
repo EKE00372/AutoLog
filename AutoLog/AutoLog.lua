@@ -1,6 +1,6 @@
 local IsInInstance, GetInstanceInfo, GetBuildInfo = IsInInstance, GetInstanceInfo, GetBuildInfo
 local LoggingCombat = LoggingCombat
-local GetCVar, SetCVar = GetCVar, SetCVar
+local GetCVar, SetCVar = C_CVar.GetCVar, C_CVar.SetCVar
 local cvar = GetCVar("advancedCombatLogging")
 
 local function autoLog()
