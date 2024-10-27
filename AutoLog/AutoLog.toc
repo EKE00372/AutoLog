@@ -1,4 +1,4 @@
-﻿## Interface: 110000
+﻿## Interface: 110005, 110010
 ## Title: AutoLog
 ## Notes: Enable combatlog in raid and mythic+ dungeons automatically.
 ## Notes-zhTW: 在團隊副本與傳奇鑰匙模式副本內自動開啟戰鬥紀錄。
