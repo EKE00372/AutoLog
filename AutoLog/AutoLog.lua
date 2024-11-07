@@ -34,6 +34,5 @@ end
 local AL = CreateFrame("Frame")
 	AL:RegisterEvent("PLAYER_ENTERING_WORLD")
 	AL:RegisterEvent("ZONE_CHANGED_NEW_AREA")
-	AL:RegisterEvent("PLAYER_DIFFICULTY_CHANGED")
 	AL:RegisterEvent("CHALLENGE_MODE_START")
 	AL:SetScript("OnEvent", autoLog)
